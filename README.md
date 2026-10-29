@@ -5,7 +5,10 @@ This is a full-stack e-commerce web application built to demonstrate backend dev
 
 ## Screnshots
 ### Event Registration
-![Products](JavaScreenShots/studentRegisted%205.png)
+![Products](https://github.com/K-harrison807/ecommerce-system/blob/main/ecomScreenshots/Screenshot%202026-10-29%20122810.png)
+![login]()
+![Create Account]()
+![Checkout]()
 
 
 ## Features
