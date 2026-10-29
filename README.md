@@ -1,8 +1,12 @@
-# simple-ecommerce-system
+# ecommerce-system(Focused on backend)
 
 ## Description
-
 This is a full-stack e-commerce web application built to demonstrate backend development, database design, and core web application functionality. The project focuses primarily on system logic, user authentication, and product management.
+
+## Screnshots
+### Event Registration
+![Products](JavaScreenShots/studentRegisted%205.png)
+
 
 ## Features
 
