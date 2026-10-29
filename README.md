@@ -3,13 +3,11 @@
 ## Description
 This is a full-stack e-commerce web application built to demonstrate backend development, database design, and core web application functionality. The project focuses primarily on system logic, user authentication, and product management.
 
-## Screnshots
-### Event Registration
+## Screnshots(Checkout for more in the Screenshots folder)
 ![Products](https://github.com/K-harrison807/ecommerce-system/blob/main/ecomScreenshots/Screenshot%202026-10-29%20122810.png)
-![login](https://github.com/K-harrison807/ecommerce-system/blob/main/ecomScreenshots/Screenshot%202026-10-29%20122018.png)
-![Create Account](https://github.com/K-harrison807/ecommerce-system/blob/main/ecomScreenshots/Screenshot%202026-10-29%20122241.png)
 ![LogedOut](https://github.com/K-harrison807/ecommerce-system/blob/main/ecomScreenshots/Screenshot%202026-10-29%20123358.png)
-![Delivery info]()
+![Create Account](https://github.com/K-harrison807/ecommerce-system/blob/main/ecomScreenshots/Screenshot%202026-10-29%20122241.png)
+![login](https://github.com/K-harrison807/ecommerce-system/blob/main/ecomScreenshots/Screenshot%202026-10-29%20122018.png)
 
 
 ## Features
