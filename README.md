@@ -6,7 +6,7 @@ This is a full-stack e-commerce web application built to demonstrate backend dev
 ## Screnshots
 ### Event Registration
 ![Products](https://github.com/K-harrison807/ecommerce-system/blob/main/ecomScreenshots/Screenshot%202026-10-29%20122810.png)
-![login]()
+![login](https://github.com/K-harrison807/ecommerce-system/blob/main/ecomScreenshots/Screenshot%202026-10-29%20122018.png)
 ![Create Account]()
 ![Checkout]()
 
